@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saad Ahmad
-- 👀 I’m interested in an MIS career
+- 🚀 I’m currently working as a Data Scientist
 - You can reach me by email as saaduaahmad2001@gmail.com
 
 <!---
